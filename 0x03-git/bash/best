@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This School is so cool!
+=======
+#!/bin/bash 
+echo "Best"
+>>>>>>> f28f2bf3316492f7a96fd75cff1c5ff71d335595
